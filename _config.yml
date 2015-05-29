@@ -1,0 +1,24 @@
+### GENERAL SETTINGS ###
+name: <%= projectName %>
+description: <%= projectDescription %>
+author: <%= authorName %>
+email: <%= authorEmail %>
+url: ""
+github : <%= githubUserName %>
+twitter : <%= authorTwitter %>
+baseurl: /Blog
+
+paginate: <%= paginate %>
+
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About Us
+   url: /about.html
+ - title: Category
+   url: /category.html
+ - title: Contact
+   url: /contact.html
+   
+disqus: jekyllblogsite
