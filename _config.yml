@@ -6,9 +6,9 @@ email: <%= authorEmail %>
 url: ""
 github : <%= githubUserName %>
 twitter : <%= authorTwitter %>
-baseurl: /Blog
+baseurl: /blog-template
 
-paginate: <%= paginate %>
+paginate: 5
 
 
 navigation:
