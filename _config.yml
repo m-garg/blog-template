@@ -21,4 +21,5 @@ navigation:
  - title: Contact
    url: /contact.html
    
-disqus: jekyllblogsite
+### Enter disqus id here   
+disqus: 
