@@ -6,7 +6,7 @@ email: <%= authorEmail %>
 url: ""
 github : <%= githubUserName %>
 twitter : <%= authorTwitter %>
-baseurl: <%= githubRepoName %>
+baseurl: /<%= githubRepoName %>
 
 paginate: <%= paginate %>
 
